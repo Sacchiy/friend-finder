@@ -1,0 +1,35 @@
+body{
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+#main{
+    padding: 25px;
+    margin:25px;
+    border: solid 1px rgb(217, 235, 231);
+}
+
+nav{
+    background-color: rgb(7, 165, 144);
+
+}
+
+#logo{
+    align-content: left;
+    margin-left: 30px;
+}
+
+#logo-icon{
+    align-content: left;
+}
+
+.Name{
+    font-size: 20px;
+}
+
+#footer{
+    background-color: rgb(7, 165, 144);
+}
+
+.lead{
+    font-size: 18px;
+}
